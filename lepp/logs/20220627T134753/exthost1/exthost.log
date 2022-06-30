@@ -1,0 +1,13 @@
+[2022-06-27 13:47:56.586] [exthost] [info] Extension host with pid 7091 started
+[2022-06-27 13:47:56.586] [exthost] [info] Skipping acquiring lock for /root/Repositories/webvirtcloud/lepp/User/workspaceStorage/f8e4cb9647c39edd27c3b9146e4ca578.
+[2022-06-27 13:47:56.767] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-06-27 13:47:56.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-27 13:47:56.809] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-06-27 13:47:56.812] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-27 13:47:56.825] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:manage.py'
+[2022-06-27 13:47:57.136] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-27 13:47:57.196] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-06-27 13:47:57.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-06-27 13:47:57.542] [exthost] [info] Eager extensions activated
+[2022-06-27 13:47:57.593] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-27 13:47:57.614] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

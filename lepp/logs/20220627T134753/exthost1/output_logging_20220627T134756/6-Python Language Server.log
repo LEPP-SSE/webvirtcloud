@@ -1,0 +1,17 @@
+[Info  - 1:47:58 PM] (7157) Pylance language server 2022.6.30 (pyright 212d1465) starting
+[Info  - 1:47:58 PM] (7157) Server root directory: /root/.vscode/extensions/ms-python.vscode-pylance-2022.6.30/dist
+Notebook support: Legacy
+[Info  - 1:47:58 PM] (7157) No configuration file found.
+[Info  - 1:47:58 PM] (7157) No pyproject.toml file found.
+[Info  - 1:47:58 PM] (7157) Setting pythonPath for service "webvirtcloud": "/bin/python"
+[Warn  - 1:47:58 PM] (7157) stubPath /root/Repositories/webvirtcloud/typings is not a valid directory.
+[Info  - 1:47:58 PM] (7157) Assuming Python version 3.9
+[Info  - 1:47:58 PM] (7157) Assuming Python platform Linux
+[Info  - 1:47:58 PM] (7157) Searching for source files
+[Info  - 1:47:58 PM] (7157) Found 149 source files
+[Info  - 1:47:58 PM] (7157) Background analysis(1) root directory: /root/.vscode/extensions/ms-python.vscode-pylance-2022.6.30/dist
+[Info  - 1:47:58 PM] (7157) Background analysis(1) started
+[Info  - 1:48:26 PM] (7157) Searching for source files
+[Info  - 1:48:26 PM] (7157) Found 149 source files
+[Info  - 2:47:55 PM] (7157) Searching for source files
+[Info  - 2:47:55 PM] (7157) Found 149 source files

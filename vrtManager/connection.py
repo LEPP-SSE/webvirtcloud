@@ -3,7 +3,7 @@ import socket
 import threading
 
 import libvirt
-from django.conf import settings
+#from django.conf import settings
 from libvirt import libvirtError
 from vrtManager import util
 from vrtManager.rwlock import ReadWriteLock
@@ -332,10 +332,12 @@ class wvmConnectionManager(object):
             return err
 
 
-connection_manager = wvmConnectionManager(
-    settings.LIBVIRT_KEEPALIVE_INTERVAL if hasattr(settings, "LIBVIRT_KEEPALIVE_INTERVAL") else 5,
-    settings.LIBVIRT_KEEPALIVE_COUNT if hasattr(settings, "LIBVIRT_KEEPALIVE_COUNT") else 5,
-)
+#connection_manager = wvmConnectionManager(
+#    settings.LIBVIRT_KEEPALIVE_INTERVAL if hasattr(settings, "LIBVIRT_KEEPALIVE_INTERVAL") else 5,
+#    settings.LIBVIRT_KEEPALIVE_COUNT if hasattr(settings, "LIBVIRT_KEEPALIVE_COUNT") else 5,
+#)
+
+connection_manager = wvmConnectionManager()
 
 
 class wvmConnect(object):
